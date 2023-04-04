@@ -16,18 +16,16 @@ Most of these fixes and features have not made it into the official zmk yet, bec
 
 However, while these fixes and features may not meet the quality standards of the official project, they work well enough to be used until these features get properly implemented in the official zmk.
 
-## How to use (XCMKB)
+# XCMKB users
+## How to use through github's built in editor
 1. Fork this repo
 2. Edit keymap in Sofle-zmk/config/sofle.keymap 
 3. Commit changes
 4. Go to `Actions`, click `Build`, `Run workflow`.
 5. Download the firmware from the `Actions` tab.
-## How to use
 
-1. Fork this repo
-2. Clone the repo to your computer
-3. Edit the config and keymap files
-4. Push your changes to github
-5. Download the firmware from the actions tab
 
-Alternatively, you could probably even use github's built-in editor to edit the keymap and config file after forking.
+![sofle connection](https://user-images.githubusercontent.com/79617315/229802255-4f432314-0723-4f06-a501-366b27930b86.jpg)
+
+
+
