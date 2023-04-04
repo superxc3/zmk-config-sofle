@@ -16,6 +16,12 @@ Most of these fixes and features have not made it into the official zmk yet, bec
 
 However, while these fixes and features may not meet the quality standards of the official project, they work well enough to be used until these features get properly implemented in the official zmk.
 
+## How to use (XCMKB)
+1. Fork this repo
+2. Edit keymap in Sofle-zmk/config/sofle.keymap 
+3. Commit changes
+4. Go to `Actions`, click `Build`, `Run workflow`.
+5. Download the firmware from the `Actions` tab.
 ## How to use
 
 1. Fork this repo
