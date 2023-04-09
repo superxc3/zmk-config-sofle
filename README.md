@@ -62,7 +62,7 @@ You can copy the following and edit according to your needs. Just need to note t
 3. Now press reset button on your left split, one window will be popped out as previous step.
 4. Drag left and right u2f to respective folders.
 5. Do not disconnect right split yet. 
-6. Remove left split from type c cable. Proceed to `Klein BLE manual` to connect your board to pc. If successfully connected, you shall able to type without cable now. 
+6. Remove left split from type c cable. Proceed to `First time bluetooth connection` to connect your board to pc. If successfully connected, you shall able to type without cable now. 
 8. If so, remove the right split from type c cable. Both should be working good now!
 
 :star: If you like our service or products, please tell your friends and family about us so we can grow and offer more options in the future. We strive to provide comprehensive user manuals to save you time exploring our products. We welcome any suggestions you have to help us improve our boards.
