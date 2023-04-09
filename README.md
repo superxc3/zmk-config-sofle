@@ -24,6 +24,7 @@ However, while these fixes and features may not meet the quality standards of th
 4. Go to `Actions`, click `Build`, `Run workflow`.
 5. Download the firmware from the `Actions` tab.
 
+## First time bluetooth connection
 ![sofle connection](https://user-images.githubusercontent.com/79617315/229802255-4f432314-0723-4f06-a501-366b27930b86.jpg)
 
 ## Example of keycodes for ZMK remap
