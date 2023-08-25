@@ -27,6 +27,12 @@ However, while these fixes and features may not meet the quality standards of th
 ## First time bluetooth connection
 ![sofle connection](https://user-images.githubusercontent.com/79617315/229802255-4f432314-0723-4f06-a501-366b27930b86.jpg)
 
+## Common Issues and Troubleshooting
+1. [Mac or Window OS connected but not responding](https://zmk.dev/docs/features/bluetooth#macos-connected-but-not-working), this is working for Bluetooth 5.2 Windows.
+2. Master connected and can type, but not slave refer to [Split Keyboard Halves Unable to Pair](https://zmk.dev/docs/troubleshooting#split-keyboard-halves-unable-to-pair).
+3. You may compile the reset.uf2 yourself or get it from [setting reset.uf2](https://drive.google.com/file/d/1r3C8MBEVbgs5SK3Hc2CyoOIaiAPLB_zp/view?usp=drive_link).
+
+
 ## Example of keycodes for ZMK remap
 The default firmware does not support mousekeys. However, the encoders on both sides are working as written and prepared by author snstein. For additional features, please refer to the ZMK website. If you have any questions, you can ask in their Discord server. The following are some basic and essential keycodes:
 
